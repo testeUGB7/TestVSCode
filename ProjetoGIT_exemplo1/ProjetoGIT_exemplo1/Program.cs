@@ -6,7 +6,7 @@ namespace ProjetoGIT_exemplo1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("1° teste VSCode com GIT");
+            Console.WriteLine("2° teste VSCode com GIT");
             Console.ReadKey();
         }
     }
